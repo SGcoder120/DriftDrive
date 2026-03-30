@@ -78,13 +78,11 @@ The app currently uses a `cars` table with these columns:
 
 Here's a walkthrough of implemented required features:
 
-**Add your GIF or video link here**
+https://i.imgur.com/a/web-103-unit-5-kBPQiZ7.gif
 
 ## Notes
 
-- One key challenge was making sure the frontend feature selections matched the backend table structure and API payloads.
-- Another was validating impossible car configurations while still keeping the create/edit flow smooth for the user.
-- The README still needs the final walkthrough assets showing the Render database dashboard and the `SELECT * FROM cars;` output.
+- Managing the CRUD operations was the hard part but after that it wasn't too hard for the rest of the website.
 
 ## License
 
