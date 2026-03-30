@@ -78,7 +78,7 @@ The app currently uses a `cars` table with these columns:
 
 Here's a walkthrough of implemented required features:
 
-https://i.imgur.com/a/web-103-unit-5-kBPQiZ7.gif
+https://i.imgur.com/a/web-103-unit-5-project-attempt-2-FEz6P3u.gif
 
 ## Notes
 
